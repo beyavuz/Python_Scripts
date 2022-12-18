@@ -1,0 +1,312 @@
+[
+  {
+    "value": "0x0060",
+    "name": "ETH_P_LOOP",
+    "exp": "Ethernet Loopback packet"
+  },
+  {
+    "value": "0x0200",
+    "name": "ETH_P_PUP",
+    "exp": "Xerox PUP packet"
+  },
+  {
+    "value": "0x0201",
+    "name": "ETH_P_PUPAT",
+    "exp": "Xerox PUP Addr Trans packet"
+  },
+  {
+    "value": "0x0800",
+    "name": "ETH_P_IP",
+    "exp": "Internet Protocol packet"
+  },
+  {
+    "value": "0x0805",
+    "name": "ETH_P_X25",
+    "exp": "CCITT X.25"
+  },
+  {
+    "value": "0x0806",
+    "name": "ETH_P_ARP",
+    "exp": "Address Resolution packet"
+  },
+  {
+    "value": "0x08ff",
+    "name": "ETH_P_BPQ",
+    "exp": "G8BPQ AX.25 Ethernet Packet        [ NOT AN OFFICIALLY REGISTERED ID ]"
+  },
+  {
+    "value": "0x0a00",
+    "name": "ETH_P_IEEEPUP",
+    "exp": "Xerox IEEE802.3 PUP packet"
+  },
+  {
+    "value": "0x0a01",
+    "name": "ETH_P_IEEEPUPAT",
+    "exp": "Xerox IEEE802.3 PUP Addr Trans packet"
+  },
+  {
+    "value": "0x6000",
+    "name": "ETH_P_DEC",
+    "exp": "DEC Assigned proto"
+  },
+  {
+    "value": "0x6001",
+    "name": "ETH_P_DNA_DL",
+    "exp": "DEC DNA Dump/Load"
+  },
+  {
+    "value": "0x6002",
+    "name": "ETH_P_DNA_RC",
+    "exp": "DEC DNA Remote Console"
+  },
+  {
+    "value": "0x6003",
+    "name": "ETH_P_DNA_RT",
+    "exp": "DEC DNA Routing"
+  },
+  {
+    "value": "0x6004",
+    "name": "ETH_P_LAT",
+    "exp": "DEC LAT"
+  },
+  {
+    "value": "0x6005",
+    "name": "ETH_P_DIAG",
+    "exp": "DEC Diagnostics"
+  },
+  {
+    "value": "0x6006",
+    "name": "ETH_P_CUST",
+    "exp": "DEC Customer use"
+  },
+  {
+    "value": "0x6007",
+    "name": "ETH_P_SCA",
+    "exp": "DEC Systems Comms Arch"
+  },
+  {
+    "value": "0x6558",
+    "name": "ETH_P_TEB",
+    "exp": "Trans Ether Bridging"
+  },
+  {
+    "value": "0x8035",
+    "name": "ETH_P_RARP",
+    "exp": "Reverse Addr Res packet"
+  },
+  {
+    "value": "0x809b",
+    "name": "ETH_P_ATALK",
+    "exp": "Appletalk DDP"
+  },
+  {
+    "value": "0x80f3",
+    "name": "ETH_P_AARP",
+    "exp": "Appletalk AARP"
+  },
+  {
+    "value": "0x8100",
+    "name": "ETH_P_8021Q",
+    "exp": "802.1Q VLAN Extended Header"
+  },
+  {
+    "value": "0x8137",
+    "name": "ETH_P_IPX",
+    "exp": "IPX over DIX"
+  },
+  {
+    "value": "0x86dd",
+    "name": "ETH_P_IPV6",
+    "exp": "IPv6 over bluebook"
+  },
+  {
+    "value": "0x8808",
+    "name": "ETH_P_PAUSE",
+    "exp": "IEEE Pause frames. See 802.3 31B"
+  },
+  {
+    "value": "0x8809",
+    "name": "ETH_P_SLOW",
+    "exp": "Slow Protocol. See 802.3ad 43B"
+  },
+  {
+    "value": "0x883e",
+    "name": "ETH_P_WCCP",
+    "exp": "Web-cache coordination protocol"
+  },
+  {
+    "value": "0x8863",
+    "name": "ETH_P_PPP_DISC",
+    "exp": "PPPoE discovery messages"
+  },
+  {
+    "value": "0x8864",
+    "name": "ETH_P_PPP_SES",
+    "exp": "PPPoE session messages"
+  },
+  {
+    "value": "0x8847",
+    "name": "ETH_P_MPLS_UC",
+    "exp": "MPLS Unicast traffic"
+  },
+  {
+    "value": "0x8848",
+    "name": "ETH_P_MPLS_MC",
+    "exp": "MPLS Multicast traffic"
+  },
+  {
+    "value": "0x884c",
+    "name": "ETH_P_ATMMPOA",
+    "exp": "MultiProtocol Over ATM"
+  },
+  {
+    "value": "0x8884",
+    "name": "ETH_P_ATMFATE",
+    "exp": "Frame-based ATM Transport"
+  },
+  {
+    "value": "0x888e",
+    "name": "ETH_P_PAE",
+    "exp": "Port Access Entity (IEEE 802.1X)"
+  },
+  {
+    "value": "0x88a2",
+    "name": "ETH_P_AOE",
+    "exp": "ATA over Ethernet"
+  },
+  {
+    "value": "0x88ca",
+    "name": "ETH_P_TIPC",
+    "exp": "TIPC"
+  },
+  {
+    "value": "0x88f7",
+    "name": "ETH_P_1588",
+    "exp": "IEEE 1588 Timesync"
+  },
+  {
+    "value": "0x8906",
+    "name": "ETH_P_FCOE",
+    "exp": "Fibre Channel over Ethernet"
+  },
+  {
+    "value": "0x8914",
+    "name": "ETH_P_FIP",
+    "exp": "FCoE Initialization Protocol"
+  },
+  {
+    "value": "0xdada",
+    "name": "ETH_P_EDSA",
+    "exp": "Ethertype DSA [ NOT AN OFFICIALLY REGISTERED ID ]"
+  },
+  {
+    "value": "0x0001",
+    "name": "ETH_P_802_3",
+    "exp": "Dummy type for 802.3 frames"
+  },
+  {
+    "value": "0x0002",
+    "name": "ETH_P_AX25",
+    "exp": "Dummy protocol id for AX.25"
+  },
+  {
+    "value": "0x0003",
+    "name": "ETH_P_ALL",
+    "exp": "Every packet (be careful!!!)"
+  },
+  {
+    "value": "0x0004",
+    "name": "ETH_P_802_2",
+    "exp": "802.2 frames"
+  },
+  {
+    "value": "0x0005",
+    "name": "ETH_P_SNAP",
+    "exp": "Internal only"
+  },
+  {
+    "value": "0x0006",
+    "name": "ETH_P_DDCMP",
+    "exp": "DEC DDCMP: Internal only"
+  },
+  {
+    "value": "0x0007",
+    "name": "ETH_P_WAN_PPP",
+    "exp": "Dummy type for WAN PPP frames"
+  },
+  {
+    "value": "0x0008",
+    "name": "ETH_P_PPP_MP",
+    "exp": "Dummy type for PPP MP frames"
+  },
+  {
+    "value": "0x0009",
+    "name": "ETH_P_LOCALTALK",
+    "exp": "Localtalk pseudo type"
+  },
+  {
+    "value": "0x000c",
+    "name": "ETH_P_CAN",
+    "exp": "Controller Area Network"
+  },
+  {
+    "value": "0x0010",
+    "name": "ETH_P_PPPTALK",
+    "exp": "Dummy type for Atalk over PPP"
+  },
+  {
+    "value": "0x0011",
+    "name": "ETH_P_TR_802_2",
+    "exp": "802.2 frames"
+  },
+  {
+    "value": "0x0015",
+    "name": "ETH_P_MOBITEX",
+    "exp": "Mobitex (kaz@cafe.net)"
+  },
+  {
+    "value": "0x0016",
+    "name": "ETH_P_CONTROL",
+    "exp": "Card specific control frames"
+  },
+  {
+    "value": "0x0017",
+    "name": "ETH_P_IRDA",
+    "exp": "Linux-IrDA"
+  },
+  {
+    "value": "0x0018",
+    "name": "ETH_P_ECONET",
+    "exp": "Acorn Econet"
+  },
+  {
+    "value": "0x0019",
+    "name": "ETH_P_HDLC",
+    "exp": "HDLC frames"
+  },
+  {
+    "value": "0x001a",
+    "name": "ETH_P_ARCNET",
+    "exp": "1A for ArcNet :-)"
+  },
+  {
+    "value": "0x001b",
+    "name": "ETH_P_DSA",
+    "exp": "Distributed Switch Arch."
+  },
+  {
+    "value": "0x001c",
+    "name": "ETH_P_TRAILER",
+    "exp": "Trailer switch tagging"
+  },
+  {
+    "value": "0x00f5",
+    "name": "ETH_P_PHONET",
+    "exp": "Nokia Phonet frames"
+  },
+  {
+    "value": "0x00f6",
+    "name": "ETH_P_IEEE802154",
+    "exp": "IEEE802.15.4 frame"
+  }
+]
